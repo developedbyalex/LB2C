@@ -1,0 +1,10 @@
+main: me.eeshe.lofiblockstocommand.LofiBlocksToCommand
+name: LofiBlocksToCommand
+version: 1.0
+author: Eeshe
+api-version: 1.13
+softdepend: [ PlaceholderAPI ]
+
+commands:
+  lofiblockstocommand:
+    aliases: [ lbtc, btc, b2c ]
